@@ -11,5 +11,4 @@ function loadWidget() {
     const newPath =
       "https://cdn.jsdelivr.net/gh/xiazeyu/live2d-widget-models/packages/live2d-widget-model-wanko/assets/wanko.model.json";
     loadlive2d("live2d", newPath);
-  }
-  
+  }  
